@@ -12,7 +12,18 @@ h2{font-size: 55px;}
     color: black;
     font-size: 100px;
    }
-.hight 1 {background-color:#1ed5e23d ;
+.hight1 {background-color:#1ed5e23d ;
+    font-family: 'Bebas Neue', sans-serif;
+    color: black;
+    font-size: 100px;
+   }
+.hight2 {background-color:#1ed5e23d ;
+    font-family: 'Bebas Neue', sans-serif;
+    color: black;
+    font-size: 100px;
+   }
+.submit { text-align: center;
+    background-color:white ;
     font-family: 'Bebas Neue', sans-serif;
     color: black;
     font-size: 100px;
